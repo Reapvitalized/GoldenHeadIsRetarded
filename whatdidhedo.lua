@@ -73,6 +73,7 @@ cb.TextScaled = true
 cb.Font=Enum.Font.Arcade
 cb.TextColor3=Color3.new(1,1,1)
 local ye = [[
+	discord.gg/soulshatters
 GOLDEN SHOWING THAT THEY ONLY WANTED TO LEAK THE SOURCE:
 https://github.com/Reapvitalized/GoldenHeadIsRetarded/blob/main/Screenshot_2025-02-18-06-09-46-56_572064f74bd5f9fa804b05334aa4f912.jpg
 
@@ -102,7 +103,7 @@ end
 StarterGui:SetCore("SendNotification", {
 	Title = "[IMPORTANT]",
 	Text = "DO YOU WANT TO KNOW WHAT THEY DID?",
-	Duration = 10,
+	Duration = 99999999999,
 	Callback = BindableFunc,
 	Button1 = "YES",
 	Button2 = "NO"
@@ -111,7 +112,7 @@ else
 StarterGui:SetCore("SendNotification", {
 	Title = "[IMPORTANT]",
 	Text = "ARE YOU SURE YOU KNOW IT ALL?",
-	Duration = 10,
+	Duration = 999999999999999,
 	Callback = BindableFunc,
 	Button1 = "YES",
 	Button2 = "NO"
@@ -122,7 +123,7 @@ end
 StarterGui:SetCore("SendNotification", {
 	Title = "[IMPORTANT]",
 	Text = "DO YOU KNOW WHAT GOLDENHEAD DID?",
-	Duration = 10,
+	Duration = 9999999999999999,
 	Callback = BindableFunc,
 	Button1 = "YES",
 	Button2 = "NO"
